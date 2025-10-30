@@ -51,17 +51,6 @@ README.md
 - CheckoutTests: checkout flow with user details
 - LogoutTests: verify logout
 
-## Pushing to GitHub
-1. Create a public repo on GitHub.
-2. Locally:
-   ```bash
-   git init
-   git add .
-   git commit -m "Add selenium POM framework"
-   git branch -M main
-   git remote add origin https://github.com/<your-user>/<repo>.git
-   git push -u origin main
-   ```
 
 ## Allure screenshots (recommended)
 - The framework already captures screenshots on test failure and attaches them to Allure results.
