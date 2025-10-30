@@ -52,7 +52,7 @@ README.md
 - LogoutTests: verify logout
 
 
-## Allure screenshots (recommended)
+## Allure screenshots 
 - The framework already captures screenshots on test failure and attaches them to Allure results.
 - After running tests, copy the `allure-results` folder into the repository (or generate the HTML report and include `allure-report` folder) to satisfy the deliverable requirement.
 
