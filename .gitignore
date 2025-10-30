@@ -1,0 +1,8 @@
+/target
+/allure-report
+/allure-results
+*.log
+.idea
+.vscode
+*.iml
+/mvnw*
